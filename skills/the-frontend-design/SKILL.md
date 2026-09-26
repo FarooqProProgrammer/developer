@@ -67,5 +67,6 @@ Comprehensive frontend UI/UX engineering discipline for creating bespoke, produc
 - `references/inspo-integration.md` - Inspo MCP tool guide (`recommend`, `search_screens`, `get_design_system`, `get_reference_jsx`).
 - `references/design-tokens.md` - Tailwind v4 `@theme` configuration, solid OKLCH palettes, typography ramp, spacing scale.
 - `references/component-patterns.md` - Bento grids, dashboards, hero layouts, modals, forms, toasts, skeletons (all solid styling).
+- `references/taste-and-copy-rules.md` - Anti-slop taste dials, brief inference, typography pairing formulas, human-first copy rules, and layout rhythm constraints.
 - `references/responsive-and-accessibility.md` - WCAG 2.1 AA checklists, ARIA roles, keyboard navigation, touch targets.
 - `references/modern-styling-recipes.md` - Tailwind v4 solid recipes for clean surfaces, crisp borders, and micro-interactions.
