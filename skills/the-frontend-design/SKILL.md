@@ -70,3 +70,12 @@ Comprehensive frontend UI/UX engineering discipline for creating bespoke, produc
 - `references/taste-and-copy-rules.md` - Anti-slop taste dials, brief inference, typography pairing formulas, human-first copy rules, and layout rhythm constraints.
 - `references/responsive-and-accessibility.md` - WCAG 2.1 AA checklists, ARIA roles, keyboard navigation, touch targets.
 - `references/modern-styling-recipes.md` - Tailwind v4 solid recipes for clean surfaces, crisp borders, and micro-interactions.
+
+---
+
+## Companion Skills
+
+- **`scroll-craft`** (`skills/scroll-craft`): Use whenever the brief requires advanced scroll animations, scrollytelling, layered dimensional parallax heroes, video scrubbing, or cinematic page grammars.
+- **`quieter`** (`skills/quieter`): Use when an interface needs systematic reduction of visual weight, muted color calibration, and calmer composition.
+- **`impeccable`** (`skills/impeccable`): Use for general design critique, micro-interactions, and visual polish audits.
+

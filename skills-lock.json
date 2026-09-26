@@ -16,6 +16,12 @@
       "sourceType": "local",
       "computedHash": "58b731c08436640311b604b9574f688cacbce9b8d40ba837ff4b6c44b2829069"
     },
+    "scroll-craft": {
+      "source": "nateherkai/scroll-craft",
+      "sourceType": "github",
+      "skillPath": "plugins/nateherk-design/skills/scroll-craft/SKILL.md",
+      "computedHash": "014880543c843c3b8838fd7480f613b348b7089700472647dbc2d5b2caaa33dd"
+    },
     "the-frontend-design": {
       "source": ".",
       "sourceType": "local",

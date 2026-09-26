@@ -10,6 +10,7 @@ A curated repository of production-grade agent skills for modern frontend develo
 |---|---|
 | **`the-frontend-design`** | Comprehensive frontend UI/UX engineering system powered strictly by **Tailwind CSS v4**, **Inspo MCP**, and anti-slop design quality gates (zero gradients, zero icon soup, distinct macrostructures). |
 | **`quieter`** | Systematically addresses color saturation, contrast extremes, visual weight, animation excess, and container complexity to create calm, luxury, and approachable interfaces. |
+| **`scroll-craft`** | Premium scroll-driven landing pages, scrollytelling, layered dimensional heroes with parallax planes, page grammar, emotional peak scoring, and visual scroll verification. |
 | **`impeccable`** | Complete design craft and audit toolkit for shaping, refining, hardening, and polishing web and mobile applications. |
 | **`create-skill`** | Guide and generator for creating effective agent skills following progressive disclosure and best practices. |
 
@@ -24,6 +25,9 @@ Install individual skills or the entire collection directly into your coding age
 ```bash
 # Install the-frontend-design skill
 npx skills add FarooqProProgrammer/developer --skill the-frontend-design
+
+# Install scroll-craft skill (scroll animation, scrollytelling & layered hero)
+npx skills add FarooqProProgrammer/developer --skill scroll-craft
 
 # Install quieter skill
 npx skills add FarooqProProgrammer/developer --skill quieter
@@ -48,18 +52,15 @@ npx skills add FarooqProProgrammer/developer
 │   ├── the-frontend-design/
 │   │   ├── SKILL.md
 │   │   └── references/
-│   │       ├── anti-patterns.md
-│   │       ├── macrostructures.md
-│   │       ├── inspo-integration.md
-│   │       ├── design-tokens.md
-│   │       ├── component-patterns.md
-│   │       ├── responsive-and-accessibility.md
-│   │       └── modern-styling-recipes.md
+│   ├── scroll-craft/
+│   │   ├── SKILL.md
+│   │   ├── engine/
+│   │   ├── references/
+│   │   ├── scripts/
+│   │   └── templates/
 │   ├── quieter/
 │   │   ├── SKILL.md
 │   │   └── references/
-│   │       ├── dimensions.md
-│   │       └── context-gathering.md
 │   ├── impeccable/
 │   │   ├── SKILL.md
 │   │   └── references/
