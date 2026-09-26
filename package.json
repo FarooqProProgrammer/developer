@@ -1,0 +1,21 @@
+{
+  "name": "developer-skills",
+  "version": "1.0.0",
+  "description": "Curated collection of agent skills for modern frontend development, UI/UX craft, and anti-AI-slop design discipline.",
+  "keywords": [
+    "skills",
+    "agent-skills",
+    "the-frontend-design",
+    "quieter",
+    "tailwind-v4",
+    "inspo-mcp",
+    "ui-ux",
+    "design-system"
+  ],
+  "author": "FarooqProProgrammer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FarooqProProgrammer/developer.git"
+  }
+}

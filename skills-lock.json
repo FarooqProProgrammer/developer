@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "create-skill": {
+      "source": ".",
+      "sourceType": "local",
+      "computedHash": "bf243df18661e667efc259681398709f2cea8672ba4ffada02e144b5e3fb0ec0"
+    },
+    "impeccable": {
+      "source": ".",
+      "sourceType": "local",
+      "computedHash": "d55800186ff7651be356015b103047b9dd84f83172cc257042a322491df3502e"
+    },
+    "quieter": {
+      "source": ".",
+      "sourceType": "local",
+      "computedHash": "58b731c08436640311b604b9574f688cacbce9b8d40ba837ff4b6c44b2829069"
+    },
+    "the-frontend-design": {
+      "source": ".",
+      "sourceType": "local",
+      "computedHash": "c4f87ccf38ae191d813f6e293bef57639c0daac89ad4a3f340729e0056036ef5"
+    }
+  }
+}
